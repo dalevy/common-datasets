@@ -1,0 +1,2 @@
+countries.txt - A list of countries from the US State Deparment website. Note* the United States is not in the list
+countries.sql - SQL Insert statement for all the countries in countries.txt in POSTGRES SQL format
